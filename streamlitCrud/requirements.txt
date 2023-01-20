@@ -98,6 +98,7 @@ tabula==1.0.5
 tabula-py==2.3.0
 tenacity==8.0.1
 terminado==0.9.4
+tkinter==8.6
 trio==0.19.0
 trio-websocket==0.9.2
 typing_extensions==4.4.0
