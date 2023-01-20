@@ -1,0 +1,4 @@
+venv/Lib/site-packages/_pyrsistent_version.py
+venv/Lib/site-packages/decorator.py
+venv/Lib/site-packages/entrypoints.py
+*venv/*
