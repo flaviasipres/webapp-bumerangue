@@ -1,5 +1,3 @@
-import this
-from turtle import onclick
 import streamlit as st
 import Controllers.HospitalController as HospitalController
 import models.Hospital as hospital

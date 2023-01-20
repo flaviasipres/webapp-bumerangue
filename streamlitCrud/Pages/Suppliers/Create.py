@@ -1,5 +1,3 @@
-import this
-from turtle import onclick
 import streamlit as st
 import Controllers.FornecedorController as FornecedorController
 import models.Fornecedor as fornecedor

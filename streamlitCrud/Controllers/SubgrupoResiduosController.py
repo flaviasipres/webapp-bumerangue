@@ -1,5 +1,3 @@
-import string
-from typing import List
 import services.database as db;
 import models.Subgrupo_Residuos as subgruporesiduos;
 import numpy as np

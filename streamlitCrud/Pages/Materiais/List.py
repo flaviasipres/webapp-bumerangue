@@ -1,4 +1,3 @@
-from unittest import main
 import streamlit as st
 import Controllers.MateriaisController as MateriaisController
 import Pages.Materiais.Create as PageCreateMateriais

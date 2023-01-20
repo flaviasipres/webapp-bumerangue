@@ -1,5 +1,3 @@
-import this
-from turtle import onclick
 import streamlit as st;
 import Controllers.UsuarioController as UsuarioController
 import models.Usuario as usuario

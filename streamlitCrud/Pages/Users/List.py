@@ -1,4 +1,3 @@
-from unittest import main
 import streamlit as st
 import Controllers.UsuarioController as UsuarioController
 import Pages.Users.Create as PageCreateCliente

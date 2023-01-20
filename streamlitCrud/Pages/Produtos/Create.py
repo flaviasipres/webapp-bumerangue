@@ -1,5 +1,3 @@
-import this
-from turtle import onclick
 import streamlit as st
 import Controllers.ProdutosController as ProdutosController
 import Controllers.GrupoProdutosController as GrupoProdutosController

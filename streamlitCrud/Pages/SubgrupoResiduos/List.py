@@ -1,4 +1,3 @@
-from unittest import main
 import streamlit as st
 import Controllers.SubgrupoResiduosController as SubgrupoResiduosController
 import Pages.SubgrupoResiduos.Create as PageCreateSubgrupoResiduos

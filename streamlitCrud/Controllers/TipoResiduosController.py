@@ -1,5 +1,3 @@
-import string
-from typing import List
 import services.database as db;
 import models.Tipo_Residuos as tiporesiduos;
 import numpy as np

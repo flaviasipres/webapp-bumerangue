@@ -1,4 +1,3 @@
-from unittest import main
 import streamlit as st
 import Controllers.HospitalController as HospitalController
 import Pages.Hospitals.Create as PageCreateHospital

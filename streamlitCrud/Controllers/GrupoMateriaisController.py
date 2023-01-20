@@ -1,5 +1,3 @@
-import string
-from typing import List
 import services.database as db;
 import models.Grupo_Materiais as grupomateriais;
 import numpy as np

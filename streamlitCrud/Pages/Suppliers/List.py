@@ -1,4 +1,3 @@
-from unittest import main
 import streamlit as st
 import Controllers.FornecedorController as FornecedorController
 import Pages.Suppliers.Create as PageCreateFornecedor

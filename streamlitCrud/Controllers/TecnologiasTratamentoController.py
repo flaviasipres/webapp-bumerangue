@@ -1,5 +1,3 @@
-import string
-from typing import List
 import services.database as db;
 import models.Tecnologia_Tratamento as tecnologiatratamento;
 import numpy as np

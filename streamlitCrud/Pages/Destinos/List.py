@@ -1,4 +1,3 @@
-from unittest import main
 import streamlit as st
 import Controllers.DestinosController as DestinosController
 import Pages.Destinos.Create as PageCreateDestinos

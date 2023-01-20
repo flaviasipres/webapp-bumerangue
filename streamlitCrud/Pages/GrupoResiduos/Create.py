@@ -1,5 +1,3 @@
-import this
-from turtle import onclick
 import streamlit as st
 import Controllers.GrupoResiduosController as GrupoResiduosController
 import models.Grupo_Residuos as gruporesiduos

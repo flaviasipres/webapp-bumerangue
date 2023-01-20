@@ -1,5 +1,3 @@
-import this
-from turtle import onclick
 import streamlit as st
 import Controllers.TecnologiasTratamentoController as TecnologiasTratamentoController
 import models.Tecnologia_Tratamento as tecnologiatratamento

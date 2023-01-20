@@ -1,4 +1,3 @@
-from unittest import main
 import streamlit as st
 import Controllers.GrupoMateriaisController as GrupoMateriaisController
 import Pages.GrupoMateriais.Create as PageCreateGrupoGrupoMateriais

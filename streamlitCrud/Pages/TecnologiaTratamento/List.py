@@ -1,4 +1,3 @@
-from unittest import main
 import streamlit as st
 import Controllers.TecnologiasTratamentoController as TecnologiasTratamentoController
 import Pages.TecnologiaTratamento.Create as PageCreateTecnologiaTratamento

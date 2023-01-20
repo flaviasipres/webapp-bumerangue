@@ -1,4 +1,3 @@
-from unittest import main
 import streamlit as st
 import Controllers.GrupoProdutosController as GrupoProdutosController
 import Pages.GrupoProdutos.Create as PageCreateGrupoProdutos

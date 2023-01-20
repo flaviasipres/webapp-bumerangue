@@ -1,4 +1,3 @@
-from unittest import main
 import streamlit as st
 import Controllers.TipoResiduosController as TipoResiduosController
 import Pages.TipoResiduos.Create as PageCreateTipoResiduos

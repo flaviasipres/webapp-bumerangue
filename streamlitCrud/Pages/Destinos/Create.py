@@ -1,5 +1,3 @@
-import this
-from turtle import onclick
 import streamlit as st
 import Controllers.DestinosController as DestinosController
 import models.Destinos as destinos
